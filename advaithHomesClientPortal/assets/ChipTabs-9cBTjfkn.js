@@ -1,0 +1,1 @@
+import{j as l}from"./index-CKFre7sL.js";function c({tabs:s,value:e,onChange:i}){return l.jsx("div",{className:"chips",role:"tablist",children:s.map(a=>l.jsx("button",{role:"tab","aria-selected":e===a.value,className:`chip ${e===a.value?"active":""}`,onClick:()=>i(a.value),children:a.label},a.value))})}export{c as C};

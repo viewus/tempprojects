@@ -1,0 +1,1 @@
+import{_ as a,j as s,aK as i}from"./index-DaGlt1fd.js";function m({html:t,empty:e="—",className:r=""}){return a(t)?s.jsx("span",{className:"muted",children:e}):s.jsx("div",{className:`rich-text ${r}`.trim(),dangerouslySetInnerHTML:{__html:i(t)}})}export{m as R};

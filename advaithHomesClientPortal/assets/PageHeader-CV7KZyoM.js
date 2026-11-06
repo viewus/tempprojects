@@ -1,0 +1,1 @@
+import{j as e}from"./index-CKFre7sL.js";function c({icon:s,title:d,subtitle:a,actions:r}){return e.jsxs("div",{className:"page-header",children:[e.jsxs("div",{className:"page-header-text",children:[e.jsxs("h1",{children:[s&&e.jsx(s,{size:24}),d]}),a&&e.jsx("p",{className:"muted",children:a})]}),r&&e.jsx("div",{className:"page-header-actions",children:r})]})}export{c as P};

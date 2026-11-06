@@ -1,0 +1,1 @@
+import{j as s}from"./index-DaGlt1fd.js";function i({title:a,subtitle:e,children:r}){return s.jsxs("div",{className:"page-head",children:[s.jsxs("div",{children:[s.jsx("h1",{children:a}),e&&s.jsx("p",{className:"sub",children:e})]}),s.jsx("div",{className:"head-actions",children:r})]})}export{i as P};
