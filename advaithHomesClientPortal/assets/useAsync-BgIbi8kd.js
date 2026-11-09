@@ -1,1 +1,0 @@
-import{r as a}from"./index-MIBomxxU.js";function o(l,n=[]){const[s,t]=a.useState({data:null,loading:!0,error:null});return a.useEffect(()=>{let r=!0;return t(e=>({...e,loading:!0})),l().then(e=>r&&t({data:e,loading:!1,error:null})).catch(e=>r&&t({data:null,loading:!1,error:e.message})),()=>{r=!1}},n),s}export{o as u};

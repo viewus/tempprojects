@@ -1,1 +1,0 @@
-import{j as e}from"./index-qdqMQHPC.js";function x({label:s,checked:c,onChange:t,className:n="",...r}){return e.jsxs("label",{className:"check"+(c?" is-checked":"")+(n?" "+n:""),children:[e.jsx("input",{type:"checkbox",checked:!!c,onChange:h=>t(h.target.checked),...r}),e.jsx("span",{children:s})]})}export{x as C};
