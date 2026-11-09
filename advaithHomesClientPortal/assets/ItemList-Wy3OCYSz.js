@@ -1,1 +1,0 @@
-import{l as n,j as r,r as p}from"./index-CKFre7sL.js";import{r as l}from"./renderValue-4Fog1Job.js";const g=()=>n.auth.get("/progress");function u({items:t,fields:a,ctx:i,rowKey:o="id"}){return r.jsx("ul",{className:"list",children:t.map(s=>r.jsx("li",{children:a.map((e,m)=>r.jsx(p.Fragment,{children:l(e,s,i)},e.key||m))},s[o]))})}export{u as I,g};
